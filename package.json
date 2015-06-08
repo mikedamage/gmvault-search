@@ -21,11 +21,15 @@
   "dependencies": {
     "chalk": "^1.0.0",
     "glob": "^5.0.10",
+    "glob-stream": "^5.0.0",
     "lodash": "^3.9.3",
     "mailparser": "^0.5.1",
+    "moment": "^2.10.3",
     "node-find-files": "0.0.4",
+    "node-status": "^0.1.4",
     "q": "^1.4.1",
     "q-io": "^1.13.1",
+    "through2": "^0.6.5",
     "yargs": "^3.10.0"
   }
 }
